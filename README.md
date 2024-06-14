@@ -14,3 +14,4 @@ Text preprocessing is the first step in NLP. It involves cleaning and preparing 
 - **Lowercasing**: Converting all text to lowercase to maintain consistency.
 - **Removing Punctuation and Stopwords**: Filtering out non-essential words and punctuation.
 - **Lemmatization/Stemming**: Reducing words to their base or root form.
+     
